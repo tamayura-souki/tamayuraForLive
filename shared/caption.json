@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name":"タイトル", "id":"showTitle",
+            "default" : "名無し"
+        },
+        {
+            "name":"サブタイトル", "id":"showSubTitle",
+            "default" : "null をしまつ。"
+        },
+        {
+            "name":"インフォ", "id":"showInfo",
+            "default" : "見に来てくれてありがとうございます！　チャンネル登録お願いします！　情報系Vtuber珠響そうきです！　プログラミングの勉強しながら、色んなことやってます！　Twitter@tamayurasouki"
+        },
+        {
+            "name":"タグ", "id":"showTag",
+            "default" : "#しゅにひびけ"
+        }
+    ]
+}

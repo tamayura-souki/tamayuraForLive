@@ -1,0 +1,42 @@
+{
+	"name": "tamayura",
+	"version": "1.0.0",
+	"description": "for tamayura's stream",
+	"author": {
+		"name": "Tamayura Souki"
+	},
+	"files": [
+		"dashboard",
+		"graphics",
+		"extension.js",
+		"extension"
+	],
+	"nodecg": {
+		"compatibleRange": "1.6.1",
+		"dashboardPanels": [
+			{
+				"name": "caption",
+				"title": "Caption",
+				"width": 2,
+				"file": "caption.html",
+				"headerColor": "#525F78",
+				"workspace": "p5.js"
+			}
+		],
+		"graphics": [
+			{
+				"file": "caption.html",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"file": "background.html",
+				"width": 1920,
+				"height": 1080
+			}
+		]
+	},
+	"scripts": {
+		"start": "node ../.. --bundlesEnabled=tamayura"
+	}
+}
