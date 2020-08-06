@@ -5,6 +5,7 @@
 	"author": {
 		"name": "Tamayura Souki"
 	},
+	"license": "MIT",
 	"files": [
 		"dashboard",
 		"graphics",
