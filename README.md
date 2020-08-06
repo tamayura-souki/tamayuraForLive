@@ -10,5 +10,5 @@ p5.jsとp5.dom.jsをsharedにぶち込むのを忘れずにね。
 とりあえず動くからヨシ！
 
 # requires
-p5.js
-NodeCG
+- p5.js
+- NodeCG
